@@ -1,3 +1,8 @@
+# .gitignore for project: TheLibrary
+
+# vimwiki generated html
+wiki/html/**/*.html
+
 # Prerequisites
 *.d
 

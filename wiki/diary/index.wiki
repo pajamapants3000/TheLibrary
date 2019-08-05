@@ -1,0 +1,10 @@
+%title Project Journal | TheLibrary
+
+= Diary =
+
+== 2019 ==
+
+=== August ===
+    * [[2019-08-05]]
+
+vim: set nospell
